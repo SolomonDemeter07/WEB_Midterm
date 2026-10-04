@@ -19,4 +19,4 @@ The website consists of 5 interconnected pages connected by a global fixed navig
 
 ## Live Demo
 The project is successfully deployed and published online. 
-You can view the website here:
+You can view the website here: https://solomondemeter07.github.io/WEB_Midterm/index.html
